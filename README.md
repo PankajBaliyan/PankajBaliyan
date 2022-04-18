@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkumar90" alt="pankajkumar90" /></a> </p>
 
-- 🔭 I’m currently working on [Jigyaasa](https://www.jigyaasa.info)
+- 🔭 I’m currently working on [Jigyaasa](https://www.jigyaasa.info_blank)
 
 - 📫 How to reach me **pankajbaliyan90@gmail.com**
 
