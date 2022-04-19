@@ -7,13 +7,15 @@
 
 - 👋 Hi, I’m @Pankajkumar90
 
-- 👀 I’m interested in Programming Languages, Web-Development, and Software development.
+- 👀 I’m interested in Programming Languages, Web-Development, and Content Creator.
 
-- 🌱 I’m currently improving my skill of Full Stack Web Development.
+- 🌱 I’m currently improving my skill in Full Stack Web Development.
 
 - 💞️ I’m looking for Web-Developer Projects.
 
 - 🔭 I’m currently working on [Jigyaasa](https://www.jigyaasa.info)
+
+- 📫 Reach me, Email at: pankajbaliyan90@gmail.com
 
 - 📫 How to reach me **pankajbaliyan90@gmail.com**
 
