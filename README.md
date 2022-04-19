@@ -13,9 +13,7 @@
 
 - 💞️ I’m looking for Web-Developer Projects.
 
-- 🔭 I’m currently working on [Jigyaasa](https://www.jigyaasa.info)
-
-- 📫 Reach me, Email at: pankajbaliyan90@gmail.com
+- 🔭 I’m currently working on **[Jigyaasa](https://www.jigyaasa.info)**
 
 - 📫 How to reach me **pankajbaliyan90@gmail.com**
 
