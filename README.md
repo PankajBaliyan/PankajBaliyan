@@ -6,6 +6,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkumar90&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajkumar90" /></a> </p>
 
 <hr>
+<hr style="border: 0;
+height: 55px;
+background-image: url(https://www.formget.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2014/12/type_10.png.webp);
+background-repeat: no-repeat;">
 
 - 👋 Hi, I’m @Pankajkumar90
 
