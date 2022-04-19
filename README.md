@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pankajkumar90&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkumar90" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pankajkumar90&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkumar90" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkumar90&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajkumar90" /></a> </p>
 
