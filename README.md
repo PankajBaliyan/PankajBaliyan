@@ -15,7 +15,7 @@
 
 - 🌱 I’m regularly improving my skills in **Full Stack Web Development**
 
-- ****** WRITE HERE SOMETHIG *****
+- ⚡ Fun fact I'm a huge fan of **Iron Man**, I love to eat and travel
 
 - 💞️ I’m looking for **Web-Developer Projects**
 
