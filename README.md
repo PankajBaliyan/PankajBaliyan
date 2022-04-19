@@ -7,7 +7,7 @@
 
 <hr>
 
-<hr height="55px">
+<hr border-color="red">
 
 <hr style="border: 0;
 height: 55px;
