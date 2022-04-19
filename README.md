@@ -9,7 +9,7 @@
 
 - 👀 I’m interested in Programming Languages, Web-Development, and Content Creator.
 
-- 🌱 I’m currently improving my skill in Full Stack Web Development.
+- 🌱 I’m regularly improving my skills in **Full Stack Web Development**.
 
 - 💞️ I’m looking for Web-Developer Projects.
 
