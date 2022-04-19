@@ -5,6 +5,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkumar90&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajkumar90" /></a> </p>
 
+<hr>
+
 - 👋 Hi, I’m @Pankajkumar90
 
 - 👀 I’m interested in Programming Languages, Web-Development, and Content Creator.
