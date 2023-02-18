@@ -1,16 +1,16 @@
 ![](./preview.webp)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "40px">, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate frontend developer from INDIA :india:</h3>
+<h3 align="center">A passionate Full Stack Web Developer from INDIA :india:</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pankajkumar90&label=Profile%20views&color=0e75b6&style=flat" alt="pankajkumar90" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pankajbaliyan&label=Profile%20views&color=0e75b6&style=flat" alt="pankajbaliyan" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajkumar90&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajkumar90" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajbaliyan&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajbaliyan" /></a> </p>
 
 <hr>
 
 <p><a target="_blank" rel="noopener noreferrer" href="#"><img style="border-radius:80px" align="right" alt="Coding" width="400" src="https://i.gifer.com/embedded/download/5eKX.gif" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width: 100%;"></a></p>
 
-- 👋 Hi, I’m **@Pankajkumar90**
+- 👋 Hi, I’m **<a href="https://github.com/PankajBaliyan">@PankajBaliyan</a>**
 
 - 👀 I’m interested in **Web-Development, and Content Creator**
 
@@ -20,7 +20,7 @@
 
 - 💞️ I’m looking for **Web-Developer Projects**
 
-- 🔭 I’m currently working on **[Jigyaasa](https://www.jigyaasa.info)**
+- 🔭 I’m currently working on **[An independent project](https://github.com/PankajBaliyan?tab=repositories)**
 
 - 📫 How to reach me **pankajbaliyan90@gmail.com**
   <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> I use daily: 👇 <br><br>
@@ -47,6 +47,6 @@
 
 <hr>
 
-<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajkumar90&show_icons=true&locale=en&layout=compact" alt="pankajkumar90" />
+<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajbaliyan&show_icons=true&locale=en&layout=compact" alt="pankajbaliyan" />
 
-<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=pankajkumar90&show_icons=true&locale=en" alt="pankajkumar90" />
+<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=pankajbaliyan&show_icons=true&locale=en" alt="pankajbaliyan" />
