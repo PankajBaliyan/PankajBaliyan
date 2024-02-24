@@ -1,6 +1,6 @@
 ![](./preview.webp)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height = "40px">, I'm Pankaj Kumar</h1>
+<h1 align="center">Hi 🙋‍♂️, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from INDIA :india:</h3>
 
 <p align="center">
