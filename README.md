@@ -1,7 +1,7 @@
 ![](./Pankaj_Profile.png)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate MERN Stack Web Developer from INDIA :india:</h3>
+<h3 align="center">A passionate AI Engineer With MERN Stack Expertise from INDIA :india:</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=pankajbaliyan&label=GitHub%20Profile%20views&color=0e75b6&style=flat" alt="pankajbaliyan"/>
