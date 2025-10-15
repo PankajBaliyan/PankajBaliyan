@@ -1,4 +1,4 @@
-![](./preview.webp)
+![](./Pankaj_Profile.png)
 
 <h1 align="center">Hi 🙋‍♂️, I'm Pankaj Kumar</h1>
 <h3 align="center">A passionate MERN Stack Web Developer from INDIA :india:</h3>
