@@ -1,113 +1,181 @@
 ![](./Pankaj_Profile.png)
 
-<h1 align="center">Hi 🙋‍♂️, I'm Pankaj Kumar</h1>
-<h3 align="center">A passionate AI Engineer With MERN Stack Expertise from INDIA :india:</h3>
+<h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
+
+<h3 align="center">
+AI Engineer • Full Stack Developer • Building AI Products with LLMs, RAG & Computer Vision 🚀
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pankajbaliyan&label=GitHub%20Profile%20views&color=0e75b6&style=flat" alt="pankajbaliyan"/>
+  <img src="https://komarev.com/ghpvc/?username=pankajbaliyan&label=Profile%20Views&color=0e75b6&style=flat" alt="pankajbaliyan"/>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/codewithpankaj1?sub_confirmation=1">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCTNSn6kOzoLllZeWUzI_bqw?style=social">
-</a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pankajbaliyan&theme=algolia&row=1&margin-w=15&margin-h=15" alt="pankajbaliyan" />
+  </a>
+</p>
+
+---
+
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+## 👨‍💻 About Me
+
+- 🚀 Currently working as an **AI Engineer at Master's Union**
+- 🧠 Building AI applications using **LLMs, RAG, LangChain & Vector Databases**
+- 💻 Strong background in **Full Stack Development (React + Node.js + FastAPI)**
+- 🔬 Interested in **Generative AI, NLP, Computer Vision & AI Infrastructure**
+- 📚 Currently exploring advanced **Agentic AI Systems & Multi-modal AI**
+- 🌍 Based in **India 🇮🇳**
+- ⚡ Fun fact: Huge fan of **Iron Man** 😄
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+</p>
+
+### 🤖 AI / ML / NLP
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Medical RAG Chatbot
+- Built an end-to-end **RAG-based medical chatbot**
+- Used **PubMed/NIH datasets + Guardrails.ai + MedQA**
+- Achieved **85%+ accuracy with <5% hallucination**
+- Tech: `LLaMA` `LangChain` `OpenAI Embeddings` `FastAPI` `React.js`
+
+---
+
+### 🫁 PneumoAI – Healthcare AI Product
+- Developed a deep learning system for **Pneumonia Detection**
+- Used **ResNet50 on Chest X-rays**
+- Achieved **90% model accuracy**
+- Tech: `TensorFlow` `OpenCV` `FastAPI` `React.js`
+
+---
+
+### 💰 B2B Insurance Broking Platform
+- Worked on a **$3M funded fintech platform**
+- Improved performance by **20% using API caching**
+- Built scalable dashboards & analytics systems
+- Tech: `React` `Node.js` `MySQL`
+
+---
+
+## 💼 Experience
+
+### 🧠 AI Engineer — Master's Union
+📍 Gurugram | Oct 2025 - Present
+
+- Building AI-powered data analysis pipelines
+- Developing embedding-based knowledge systems
+- Working on RAG infrastructure using Gemini & OpenAI
+
+---
+
+### 💻 Full Stack Software Engineer — CodeFire Technologies
+📍 Noida | Oct 2023 - Oct 2025
+
+- Developed scalable web services & analytics dashboards
+- Built systems for real-time business insights
+- Worked with React, Node.js & SQL
+
+---
+
+### 🌐 Web Application Developer — uCertify
+📍 Noida | Jan 2022 - Nov 2022
+
+- Migrated legacy PHP systems to React.js
+- Improved scalability & performance by 25%
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pankajbaliyan&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/codewithpankaj1?sub_confirmation=1">
-<img alt="YouTube Channel views" src="https://img.shields.io/youtube/channel/views/UCTNSn6kOzoLllZeWUzI_bqw?style=social">
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pankajbaliyan&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankajbaliyan&theme=chalk&row=1&margin-w=15&margin-h=15" alt="pankajbaliyan" /></a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankajbaliyan&theme=tokyonight" />
+</p>
 
-<hr>
+---
 
-<p><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
+## 🌐 Connect With Me
 
-- 👋 Hi, I’m **<a href="https://github.com/PankajBaliyan">@PankajBaliyan</a>**
-
-- 👀 I’m interested in **Web-Development, and Content Creator**
-
-- 🌱 I’m regularly improving my skills in **Full Stack Web Development**
-
-- ⚡ Fun fact I'm a huge fan of **Iron Man**, I love to eat and travel
-
-- 💞️ I’m looking for **Web-Developer Projects**
-
-- 🔭 I’m currently working on **[An independent project](https://github.com/PankajBaliyan?tab=repositories)**
-
-- 📫 How to reach me **pankajbaliyan90@gmail.com**
-  <li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> I use daily: 👇 <br><br>
-  <div>
-  <a target="_blank" href="https://html.com">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://www.javascript.com">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://getbootstrap.com">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://expressjs.com"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://legacy.reactjs.org/docs/getting-started.html">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="reactjs" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://nodejs.org/en">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodejS" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://www.mongodb.com">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://github.com">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-abadge&logo=github&logoColor=white" alt="GitHub" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://www.postman.com">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://code.visualstudio.com">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" style="max-width:100%;height:40px;">
-  </a>
-  <a target="_blank" href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" style="max-width:100%;height:40px;"></a>
-  </div>
-</li>
-
-<hr>
-
-
-<h3 align="left">Connect with me:</h3>
-
-<a href="https://www.youtube.com/c/codewithpankaj1?sub_confirmation=1" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="code with pankaj - youtube" height="40"/></a>
-<a href="https://linkedin.com/in/pankaj-kumar-90" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="40"/></a><br><br>
-<a href="https://leetcode.com/pankajkumar90/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" height="40"/></a>
-<a href="https://auth.geeksforgeeks.org/user/im_pankaj/practice/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="geeksforgeeks" height="40"/></a><br><br>
-<a href="https://twitter.com/_pankaj_kumar__" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" height="40"/></a>
-<a href="https://www.hackerrank.com/pankajbaliyan90" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" height="40"/></a>
-<a href="https://discord.gg/qYz4cYc9zP" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40"/></a>
-
-<hr>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a>
-<a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer"> <img src="https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" alt="node" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40"/> </a>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" height="40"/> </a> </p>
+  <a href="https://linkedin.com/in/pankaj-kumar-90" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<hr>
+  <a href="https://www.youtube.com/c/codewithpankaj1?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+  </a>
 
-<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajbaliyan&show_icons=true&locale=en&layout=compact" alt="pankajbaliyan" />
+  <a href="https://leetcode.com/pankajkumar90/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
+  </a>
 
-<img align="center" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=pankajbaliyan&show_icons=true&locale=en" alt="pankajbaliyan" />
+  <a href="https://twitter.com/_pankaj_kumar__" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pankajbaliyan90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Building AI products that solve real-world problems
+</h3>
