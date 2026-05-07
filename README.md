@@ -32,6 +32,46 @@ AI Engineer • Full Stack Developer • Building AI Products with LLMs, RAG & C
 
 ---
 
+## 🚀 SaaS Products
+
+<table>
+<tr>
+<td width="50%">
+
+### ✨ SnippetVerse
+A modern developer-focused platform to save, organize, and manage reusable code snippets efficiently.
+
+🔗 Live Demo:  
+https://snippetverse.pankajdev.in/
+
+**Features**
+- Code snippet management
+- Clean developer-friendly UI
+- Fast search & organization
+- Productivity focused workflow
+
+</td>
+
+<td width="50%">
+
+### ⚡ FetchTab
+A lightweight productivity tool for managing and organizing browser tabs efficiently.
+
+🔗 Live Demo:  
+https://fetchtab.pankajdev.in/
+
+**Features**
+- Smart tab management
+- Improved browsing productivity
+- Minimal & fast interface
+- Easy workflow organization
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍🎨 Frontend
