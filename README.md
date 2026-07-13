@@ -22,7 +22,7 @@ AI Engineer • Full Stack Developer • Building AI Products with LLMs, RAG & C
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently working as an **AI Engineer at Questionlab Inc**
+- 🚀 Currently working as an **AI/ML Engineer at Questionlab Inc**
 - 🧠 Building AI applications using **LLMs, RAG, LangChain & Vector Databases**
 - 💻 Strong background in **Full Stack Development (React + Node.js + FastAPI)**
 - 🔬 Interested in **Generative AI, NLP, Computer Vision & AI Infrastructure**
@@ -148,7 +148,7 @@ https://fetchtab.pankajdev.in/
 
 ## 💼 Experience
 
-### 🧠 AI/ML Engineer — Questionlab Inc
+### 🤖 AI/ML Engineer — Questionlab Inc
 📍 Remote | Jul 2026 - Present
 
 - Building AI-powered data analysis pipelines
@@ -180,6 +180,13 @@ https://fetchtab.pankajdev.in/
 
 - Migrated legacy PHP systems to React.js
 - Improved scalability & performance by 25%
+
+---
+
+### 🌱 Web Developer - Blue Planet Solutions — Internship
+📍 Maharashtra | Jun 2021 - Nov 2021
+
+- Developed and maintained web applications, focusing on code optimization for performance.
 
 ---
 
