@@ -148,8 +148,17 @@ https://fetchtab.pankajdev.in/
 
 ## 💼 Experience
 
+### 🧠 AI/ML Engineer — Questionlab Inc
+📍 Remote | Jul 2026 - Present
+
+- Building AI-powered data analysis pipelines
+- Developing embedding-based knowledge systems
+- Working on RAG infrastructure using Gemini & OpenAI
+
+---
+
 ### 🧠 AI Engineer — Master's Union
-📍 Gurugram | Oct 2025 - Present
+📍 Gurugram | Oct 2025 - Jul 2026
 
 - Building AI-powered data analysis pipelines
 - Developing embedding-based knowledge systems
