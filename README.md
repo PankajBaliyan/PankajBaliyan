@@ -22,7 +22,7 @@ AI Engineer • Full Stack Developer • Building AI Products with LLMs, RAG & C
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently working as an **AI Engineer at Master's Union**
+- 🚀 Currently working as an **AI Engineer at Questionlab Inc**
 - 🧠 Building AI applications using **LLMs, RAG, LangChain & Vector Databases**
 - 💻 Strong background in **Full Stack Development (React + Node.js + FastAPI)**
 - 🔬 Interested in **Generative AI, NLP, Computer Vision & AI Infrastructure**
