@@ -1,4 +1,4 @@
-![](./Pankaj_Profile.png)
+![](./preview.webp)
 
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
