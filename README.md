@@ -3,17 +3,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 
 <h3 align="center">
-AI Engineer • Full Stack Developer • Building AI Products with LLMs, RAG & Computer Vision 🚀
+AI ML Engineer • Full Stack • Building AI Products with LLMs, RAG & Computer Vision 🚀
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pankajbaliyan&label=Profile%20Views&color=0e75b6&style=flat" alt="pankajbaliyan"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pankajbaliyan&theme=algolia&row=1&margin-w=15&margin-h=15" alt="pankajbaliyan" />
-  </a>
 </p>
 
 ---
